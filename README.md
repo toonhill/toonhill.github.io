@@ -29,8 +29,8 @@ Gehuwd, vader van drie dochters en grootvader van zes kleindochters en één kle
 
 * <a href="http://home.scarlet.be/~th029779/">Site bij scarlet</a>
  (<a href="home.scarlet.be/th029779/Welkom_op_de_website_van.html">archief</a>)
-* [Site bij wix](http://toon0.wix.com/copie-de--toonhill#!) [archief](wix)
-* Vroeger had Toon ook nog een site op http://www.hillewaere.be/ maar dat is nu niet meer zo
+* [Site bij wix](http://toon0.wix.com/copie-de--toonhill#!) (enkel te zien met flash)  ([archief](wix))
+* Vroeger had Toon ook nog een site op [hillewaere.be](http://www.hillewaere.be/) maar dat is nu niet meer zo
 
 
 
