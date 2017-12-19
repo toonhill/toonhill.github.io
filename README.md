@@ -11,7 +11,7 @@ Op zaterdag 15 oktober 2016 om 10.00u namen we afscheid van hem in de OLV-kerk v
 
 Nini, Karen, Marjan en Katrijn
 
-<img title="Toon" alt="Toon" src="toon400.png" width="250"  />
+<img title="Toon" alt="Toon" src="images/toon400.png" width="250"  />
 
 Toon was jarenlang leraar  Frans aan het Sint-Bernarduscollege te Nieuwpoort en talencoördinator aan het Vormingsinstituut voor KMO te Veurne.
 Gehuwd, vader van drie dochters en grootvader van zes kleindochters en één kleinzoon. Woont te Nieuwpoort sinds zijn prille jeugdjaren. Sinds april 2002 met pensioen! Rustig aan? Wat dacht je! Er is de computer - Google - Facebook - de Franse taal (die me blijft boeien) - museabezoeken - film en theater - ambassadeur voor Nieuwpoort, de Nieuwpoortse garnalen en dagverse vis - I-phone (mijn "speeltje" ) - poëzie (momenteel stadsdichter van Nieuwpoort) - en samen met mijn vrouw zoveel mogelijk daguitstappen maken of citytrips. Over al deze hobby's en passies vindt u   meer informatie als u klikt op onderstaande link
