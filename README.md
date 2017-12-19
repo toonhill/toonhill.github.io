@@ -24,3 +24,13 @@ Gehuwd, vader van drie dochters en grootvader van zes kleindochters en één kle
 * [Bel]() tel:+3258234001
 * [Vind ons op de landkaart](https://maps.google.com/maps?q=Nieuwpoort)
 * [Zend ons een e-mail](mailto:toonhill@gmail.com)
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-111451965-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-111451965-1');
+</script>
