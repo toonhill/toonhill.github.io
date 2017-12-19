@@ -25,6 +25,15 @@ Gehuwd, vader van drie dochters en grootvader van zes kleindochters en één kle
 * [Vind ons op de landkaart](https://maps.google.com/maps?q=Nieuwpoort)
 * [Zend ons een e-mail](mailto:toonhill@gmail.com)
 
+### Andere websites:
+
+* <a href="http://home.scarlet.be/~th029779/">Site bij scarlet</a>
+ (<a href="home.scarlet.be/th029779/Welkom_op_de_website_van.html">archief</a>)
+* [Site bij wix](http://toon0.wix.com/copie-de--toonhill#!) [archief](wix)
+* Vroeger had Toon ook nog een site op http://www.hillewaere.be/ maar dat is nu niet meer zo
+
+
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-111451965-1"></script>
 <script>
